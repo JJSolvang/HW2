@@ -1,0 +1,29 @@
+#start_page #example_box {
+
+    height: 175px;
+    width: 400px;
+    margin-top: 24px;
+    background-color: red;
+    background-image: linear-gradient(to right, red, yellow);
+}
+
+#display_page {
+
+    height: 175px;
+    width: 400px;
+    margin-top: 67px;
+    background-color: red;
+    background-image: linear-gradient(to right, red, yellow);
+}
+
+#changed_page {
+
+    height: 175px;
+    width: 400px;
+    margin-top: 67px;
+    background-color: yellow;
+    background-image: linear-gradient(to right, yellow, red);
+
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
+}
